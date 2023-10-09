@@ -32,6 +32,11 @@
   font-size: 4.5rem;
   color: azure;
 }
+
+.img1 {
+  height: auto;
+  width: 300px;
+}
 .hero_desc {
   font-size: 2rem;
   font-weight: 500;
@@ -42,6 +47,12 @@
   font-weight: 350;
   color: aliceblue;
 }
+.hero_desc2 {
+  font-size: 20px;
+  font-weight: 350;
+  color: black;
+}
+
 .hero-text {
   text-align: center;
   position: absolute;
